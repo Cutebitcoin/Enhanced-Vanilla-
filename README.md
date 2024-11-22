@@ -9,5 +9,5 @@ Vanilla Minecraft is kinda boring. This modpack will enhance the Vanilla Minecra
 \
 Here is an In-game photo:
 ![In-game photo](https://cdn.modrinth.com/data/9oGWok43/images/6bd5f53d0e95704ae21906b78c5da154583818f7.png)\
-‼️THIS MODPACK IS STILL IN ALPHA‼️, so if you have any issues, you can post them here: [https://github.com/Cutebitcoin/Enhanced-Vanilla-/issues](https://github.com/Cutebitcoin/Enhanced-Vanilla-/issues)\
+‼️THIS MODPACK IS STILL IN ALPHA‼️, so if you have any issues, you can post them here: [https://github.com/Cutebitcoin/Enhanced-Vanilla-Plus/issues](https://github.com/Cutebitcoin/Enhanced-Vanilla-Plus/issues)\
 MODRINTH PAGE:https://modrinth.com/modpack/enhanced-vanilla-+
